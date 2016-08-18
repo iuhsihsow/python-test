@@ -1,0 +1,6 @@
+run server.py
+run client.py
+
+and get this
+
+Received: b'Hello word!' from ('127.0.0.1', 52774)
