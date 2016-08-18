@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+*.sdf
+ccallpy/callpython/callpython/Debug/*.*
+ccallpy/callpython/Debug/*.*
+
 
 # Distribution / packaging
 .Python
@@ -87,3 +91,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+/ccallpy/callpython/.vs/callpython/v14/*.suo
+/ccallpy/callpython/callpython/x64/Release
+/ccallpy/callpython/*.opensdf
+/ccallpy/callpython/ipch/CALLPYTHON-5d50715b/*.ipch
+/ccallpy/callpython/x64/Release
