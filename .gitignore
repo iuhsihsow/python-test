@@ -96,3 +96,5 @@ ENV/
 /ccallpy/callpython/*.opensdf
 /ccallpy/callpython/ipch/CALLPYTHON-5d50715b/*.ipch
 /ccallpy/callpython/x64/Release
+*.xml
+.idea/python-test.iml
